@@ -1,7 +1,7 @@
 {
   "name": "AltStore Beta",
   "identifier": "com.rileytestut.AltStoreBeta",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "sourceURL": "https://github.com/hulilikii/Sources/blob/master/apps.json?raw=true",
   "apps": [
     {
       "name": "AltStore",
