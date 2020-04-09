@@ -1,7 +1,8 @@
 {
   "name": "AltStore Beta",
   "identifier": "com.rileytestut.AltStoreBeta",
-  "sourceURL": "https://github.com/hulilikii/Sources/blob/master/apps.json?raw=true",
+  "news": [],
+  "userInfo": {}
   "apps": [
     {
       "name": "AltStore",
@@ -61,5 +62,4 @@
         "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
       ]
     },
-]
 }
