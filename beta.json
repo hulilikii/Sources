@@ -1,7 +1,7 @@
 {
   "name": "AltStore Beta",
   "identifier": "com.rileytestut.AltStoreBeta",
-  "sourceURL": "https://api.jsonbin.io/b/5e8ec58ccc62be4369c16230/13",
+  "sourceURL": "https://github.com/hulilikii/Sources/raw/master/beta.json",
   "apps": [
     {
       "name": "AltStore",
@@ -44,7 +44,7 @@
       "downloadURL": "https://github.com/guillermo-moran/ClassicPlayer/releases/download/1.0.3/ClassicPlayer_103.ipa",
       "localizedDescription": "An iPod Classic simulator for iOS",
       "iconURL": "https://github.com/guillermo-moran/ClassicPlayer/blob/master/ClassicPlayer/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png?raw=true",
-      "tintColor": "9e968d",
+      "tintColor": "0879DF",
       "size": 130300000,
       "permissions": [
         {
@@ -135,32 +135,6 @@
       "screenshotURLs": [
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image0.png?dl=1",
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image1.png?dl=1"
-      ]
-    },
-    {
-      "name": "Rewound",
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "subtitle": "Turn your iPhone into an iPod. Classic.",
-      "version": "2019.7",
-      "versionDate": "2019-12-09",
-      "versionDescription": "Small fixes.",
-      "downloadURL": "https://dl.orangedox.com/quarklibrary/Rewound/Rewound.ipa?dl=1",
-      "localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/Rewound/icon.png?dl=1",
-      "tintColor": "9e968d",
-      "size": 5628716,
-      "permissions": [
-        {
-          "type": "music",
-          "usageDescription": "Rewound needs access to your music library to control your music."
-        }
-      ],
-      "screenshotURLs": [
-        "https://dl.orangedox.com/quarklibrary/Rewound/image0.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/Rewound/image1.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/Rewound/image2.png?dl=1",
-        "https://dl.orangedox.com/quarklibrary/Rewound/image3.png?dl=1"
       ]
     }
   ]
