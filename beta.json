@@ -105,6 +105,23 @@
       ]
     },
     {
+      "name": "MAME4iOS",
+      "bundleIdentifier": "com.example.mame4ios",
+      "developerName": "David Valdeita (Seleuco)",
+      "subtitle": "This is a port of MAME 0.139u1 for iOS, iPadOS, and tvOS.",
+      "version": "2020.5",
+      "versionDate": "2020-04-12",
+      "versionDescription": "Many bug fixes and additions.",
+      "downloadURL": "https://github.com/hulilikii/Sources/blob/master/Downs/MAME4iOS-2020.5.ipa?raw=true",
+      "localizedDescription": "MAME stands for Multi Arcade Machine Emulator, and lets you play arcade games from the past 30+ years on a device that fits in your pocket! .",
+      "iconURL": "https://github.com/yoshisuga/MAME4iOS/blob/master/xcode/MAME4iOS/default_game_icon.png?raw=true",
+      "tintColor": "F958B0",
+      "size": 24500000,
+      "screenshotURLs": [
+        "https://github.com/yoshisuga/MAME4iOS/blob/master/README.images/screenshot-iphone-small.jpg?raw=true"
+      ]
+    },
+    {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
