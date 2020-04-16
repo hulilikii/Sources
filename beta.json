@@ -4,7 +4,7 @@
   "sourceURL": "https://github.com/hulilikii/Sources/raw/master/beta.json",
   "apps": [
     {
-      "name": "AltStore",
+      "name": "AltStore [Beta]",
       "bundleIdentifier": "com.rileytestut.AltStore.Beta",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
@@ -126,9 +126,9 @@
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.30.ee1586c9",
-      "versionDate": "2020-04-15",
-      "versionDescription": "Flush command buffer when we're about to read GS RAM.",
+      "version": "0.30-1f2ea68",
+      "versionDate": "2020-04-16",
+      "versionDescription": "Handle splitting of image transfers that may have addresses that go out of bounds",
       "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/ace111ad/Play.ipa",
       "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n• No BIOS required. Play! is an high-level emulator.\n• Easy configuration. No custom settings to fix specific games.\n• Available on many platforms. Making sure the experience is the same everywhere.",
       "iconURL": "https://dl.orangedox.com/quarklibrary/Play!/icon.png?dl=1",
