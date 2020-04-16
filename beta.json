@@ -4,7 +4,7 @@
   "sourceURL": "https://github.com/hulilikii/Sources/raw/master/beta.json",
   "apps": [
     {
-      "name": "AltStore [Beta]",
+      "name": "AltStore Beta",
       "bundleIdentifier": "com.rileytestut.AltStore.Beta",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Delta",
+      "name": "Delta [Beta]",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
