@@ -4,36 +4,6 @@
   "sourceURL": "https://github.com/hulilikii/Sources/raw/master/beta.json",
   "apps": [
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
-      "developerName": "Riley Testut",
-      "subtitle": "An alternative App Store for iOS.",
-      "version": "1.3b3",
-      "versionDate": "2020-04-01T15:30:00-07:00",
-      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nAltStore 1.3 is nearing completion, so this beta focuses on fixing the last remaining known issues with sideloading. Assuming nothing major is reported, this should be the final beta before the public release!\n\nNEW FEATURES\n• Adds search bar in Browse tab\n• Adds Visual Studio App Center analytics for automatic crash reporting\n\nIMPROVEMENTS\n• Deactivates beta apps once you are no longer a patron\n• Removes \"Sideloading in Beta\" alert\n\nBUG FIXES\n• Fixes sideloading apps from News tab\n• Fixes missing recovery suggestions for some errors\n• Fixes secondary AltStore appearing after refresh under certain circumstances\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished.",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "tintColor": "018084",
-      "size": 2532618,
-      "beta": false,
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-        }
-      ]
-    },
-    {
       "name": "Classic Player",
       "bundleIdentifier": "me.gmoran.ClassicPlayer",
       "developerName": "Guillermo Moran",
@@ -126,10 +96,10 @@
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.30-8ab8da0c",
-      "versionDate": "2020-05-01",
-      "versionDescription": "Account for textures with 0 buffer width",
-      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/8ab8da0c/Play.ipa",
+      "version": "0.30-c950bf43",
+      "versionDate": "2020-05-04",
+      "versionDescription": "Only log scan process if we want to.",
+      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/c950bf43/Play.ipa",
       "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n• No BIOS required. Play! is an high-level emulator.\n• Easy configuration. No custom settings to fix specific games.\n• Available on many platforms. Making sure the experience is the same everywhere.",
       "iconURL": "https://dl.orangedox.com/quarklibrary/Play!/icon.png?dl=1",
       "tintColor": "5f5fff",
