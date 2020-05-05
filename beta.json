@@ -57,24 +57,6 @@
       ]
     },
     {
-      "name": "Dolphin iOS",
-      "bundleIdentifier": "org.dolphin-emu.DolphiniOS",
-      "developerName": "Dolphin Emu Team",
-      "subtitle": "Your favorite GameCube and Wii games, now on iOS.",
-      "version": "1.0",
-      "versionDate": "2019-12-15",
-      "versionDescription": "Initial Release.",
-      "downloadURL": "https://dl.orangedox.com/quarklibrary/DolphiniOS/DolphiniOS.ipa?dl=1",
-      "localizedDescription": "Basic stuff right now. Very much still a proof of concept on Jailed devices.",
-      "iconURL": "https://dl.orangedox.com/quarklibrary/DolphiniOS/icon.png?dl=1",
-      "tintColor": "40cbff",
-      "size": 18960427,
-      "screenshotURLs": [
-        "https://github.com/hulilikii/Sources/blob/master/DolphiniOS-emulator-iPhone.jpg?raw=true",
-        "https://github.com/hulilikii/Sources/blob/master/dolphinios-game-library.jpeg?raw=true"
-      ]
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "David Valdeita (Seleuco)",
