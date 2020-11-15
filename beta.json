@@ -67,7 +67,7 @@
       "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2020.13/MAME4iOS-2020.13.ipa",
       "localizedDescription": "MAME stands for Multi Arcade Machine Emulator, and lets you play arcade games from the past 30+ years on a device that fits in your pocket! .",
       "iconURL": "https://github.com/yoshisuga/MAME4iOS/blob/master/xcode/MAME4iOS/default_game_icon.png?raw=true",
-      "tintColor": "F958B0",
+      "tintColor": "363636",
       "size": 22556587,
       "screenshotURLs": [
         "https://github.com/yoshisuga/MAME4iOS/blob/master/README.images/screenshot-iphone-small.jpg?raw=true"
@@ -95,10 +95,10 @@
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "PPSSPP Team",
       "subtitle": "PlayStation Portable Games on iOS.",
-      "version": "1.10.3-1201",
-      "versionDate": "2020-11-12",
-      "versionDescription": "commit g55981430f",
-      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/PPSSPP_0v1.10.3-1201-g55981430f.ipa",
+      "version": "1.10.3-1211",
+      "versionDate": "2020-11-16",
+      "versionDescription": "commit gd9350d489",
+      "downloadURL": "https://p.xx.wtf/PPSSPP_v1.10.3-1211-gd9350d489.ipa",
       "localizedDescription": "PPSSPP allows you to play PSP games on your iOS devices.\n\nEnhance your experience!\n• Play in HD resolutions and more\n• Play on a tablet for big-screen mobile gaming\n• Customize on-screen touch controls or use an external controller or keyboard\n• Save and restore game state anywhere, anytime\n• Crank up the anisotropic filtering and texture scaling\n• Continue where you left off by transferring saves from your real PSP",
       "iconURL": "https://github.com/hrydgard/ppsspp/raw/master/ios/assets/Icon%403x.png",
       "tintColor": "21486b",
