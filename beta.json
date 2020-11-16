@@ -41,7 +41,7 @@
       "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\nâ€¢Â Playing DS games\nâ€¢ Save States\nâ€¢ Hold Button\n\nFeatures I'm still working on:\nâ€¢ Fast Forward\nâ€¢ Cheats\nâ€¢ Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
-      "size": 18456630,
+      "size": 24492411,
       "beta": false,
       "permissions": [
         {
