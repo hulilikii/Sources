@@ -23,10 +23,10 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/hulilikii/Sources/blob/master/classicplayer1.jpg?raw=true",
-        "https://github.com/hulilikii/Sources/blob/master/classicplayer3.jpg?raw=true",
-        "https://github.com/hulilikii/Sources/blob/master/classicplayer4.jpg?raw=true",
-        "https://github.com/hulilikii/Sources/blob/master/classicplayer2.jpg?raw=true"
+        "https://github.com/hulilikii/Sources/blob/master/Screens/classicplayer1.jpg?raw=true",
+        "https://github.com/hulilikii/Sources/blob/master/Screens/classicplayer3.jpg?raw=true",
+        "https://github.com/hulilikii/Sources/blob/master/Screens/classicplayer4.jpg?raw=true",
+        "https://github.com/hulilikii/Sources/blob/master/Screens/classicplayer2.jpg?raw=true"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "version": "2.0",
       "versionDate": "2020-11-16",
       "versionDescription": "Shifty Buttons",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/delta/1_3_a2.ipa",
+      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/delta.ipa",
       "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\nâ€¢Â Playing DS games\nâ€¢ Save States\nâ€¢ Hold Button\n\nFeatures I'm still working on:\nâ€¢ Fast Forward\nâ€¢ Cheats\nâ€¢ Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
@@ -87,7 +87,7 @@
       "tintColor": "5f5fff",
       "size": 924607,
       "screenshotURLs": [
-        "https://github.com/hulilikii/Sources/blob/master/play-ps2-emulator-011.jpg?raw=true"
+        "https://github.com/hulilikii/Sources/blob/master/Screens/play-ps2-emulator-011.jpg?raw=true"
       ]
     },
     {
