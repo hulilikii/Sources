@@ -57,6 +57,26 @@
       ]
     },
     {
+      "name": "DolphiniOS",
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb-xcode",
+      "developerName": "OatmealDome",
+      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.0.ipa",
+      "iconURL": "https://github.com/hulilikii/Sources/blob/master/Screens/ios_marketing1024x1024.png?raw=true",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+	      "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "size": 79138816,
+      "subtitle": "GameCube and Wii games on the go.",
+      "tintColor": "41cdff",
+      "version": "3.2.0",
+      "versionDate": "2020-11-22",
+      "versionDescription": "Devices with A12 processors and newer running iOS 14.2 are now supported.\n\nFind the full changelog here: https://oatmealdome.me/blog/dolphinios-ver-3-1-1/"
+    },
+    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "David Valdeita (Seleuco)",
@@ -95,10 +115,10 @@
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "PPSSPP Team",
       "subtitle": "PlayStation Portable Games on iOS.",
-      "version": "1.10.3-1220",
-      "versionDate": "2020-11-18",
-      "versionDescription": "commit g5c4a227b7",
-      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/PPSSPP_v1.10.3-1220-g5c4a227b7.ipa",
+      "version": "1.10.3-1234",
+      "versionDate": "2020-11-23",
+      "versionDescription": "commit g16e54c630",
+      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/PPSSPP_v1.10.3-1234-g16e54c630.ipa",
       "localizedDescription": "PPSSPP allows you to play PSP games on your iOS devices.\n\nEnhance your experience!\n• Play in HD resolutions and more\n• Play on a tablet for big-screen mobile gaming\n• Customize on-screen touch controls or use an external controller or keyboard\n• Save and restore game state anywhere, anytime\n• Crank up the anisotropic filtering and texture scaling\n• Continue where you left off by transferring saves from your real PSP",
       "iconURL": "https://github.com/hrydgard/ppsspp/raw/master/ios/assets/Icon%403x.png",
       "tintColor": "21486b",
