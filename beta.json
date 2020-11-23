@@ -60,7 +60,7 @@
       "name": "DolphiniOS",
       "bundleIdentifier": "me.oatmealdome.dolphinios-njb-xcode",
       "developerName": "OatmealDome",
-      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.0.ipa",
+      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.1.ipa",
       "iconURL": "https://github.com/hulilikii/Sources/blob/master/Screens/ios_marketing1024x1024.png?raw=true",
       "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
       "screenshotURLs": [
@@ -72,9 +72,9 @@
       "size": 79138816,
       "subtitle": "GameCube and Wii games on the go.",
       "tintColor": "41cdff",
-      "version": "3.2.0",
-      "versionDate": "2020-11-22",
-      "versionDescription": "Devices with A12 processors and newer running iOS 14.2 are now supported.\n\nFind the full changelog here: https://oatmealdome.me/blog/dolphinios-ver-3-1-1/"
+      "version": "3.2.1",
+      "versionDate": "2020-11-23",
+      "versionDescription": "Haptics and Rumble Update"
     },
     {
       "name": "MAME4iOS",
