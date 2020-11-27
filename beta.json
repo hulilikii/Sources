@@ -63,7 +63,7 @@
       "subtitle": "GameCube and Wii games on the go.",
       "version": "3.2.2",
       "versionDate": "2020-11-27",
-      "versionDescription": "Haptics and Rumble Update."
+      "versionDescription": "Haptics and Rumble Update.",
       "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.2.ipa",
       "iconURL": "https://github.com/hulilikii/Sources/blob/master/Screens/ios_marketing1024x1024.png?raw=true",
       "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
