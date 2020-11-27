@@ -41,7 +41,7 @@
       "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DSi games!\nPlease report any issues you find to support@altstore.io. Thanks!",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
-      "size": 24492411,
+      "size": 24636427,
       "beta": false,
       "permissions": [
         {
@@ -58,9 +58,13 @@
     },
     {
       "name": "DolphiniOS",
-      "bundleIdentifier": "me.oatmealdome.dolphinios-njb-xcode",
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb-xcode",	
       "developerName": "OatmealDome",
-      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.1.ipa",
+      "subtitle": "GameCube and Wii games on the go.",
+      "version": "3.2.2",
+      "versionDate": "2020-11-27",
+      "versionDescription": "Haptics and Rumble Update."
+      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.2.ipa",
       "iconURL": "https://github.com/hulilikii/Sources/blob/master/Screens/ios_marketing1024x1024.png?raw=true",
       "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
       "screenshotURLs": [
@@ -69,12 +73,8 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
 	      "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "size": 79138816,
-      "subtitle": "GameCube and Wii games on the go.",
-      "tintColor": "41cdff",
-      "version": "3.2.1",
-      "versionDate": "2020-11-27",
-      "versionDescription": "Haptics and Rumble Update."
+      "size": 35013324,
+      "tintColor": "41cdff"
     },
     {
       "name": "MAME4iOS",
@@ -115,14 +115,14 @@
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "PPSSPP Team",
       "subtitle": "PlayStation Portable Games on iOS.",
-      "version": "1.10.3-1257",
+      "version": "1.10.3-1259",
       "versionDate": "2020-11-27",
-      "versionDescription": "commit g6bf9f20f5",
-      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/PPSSPP_v1.10.3-1257-g6bf9f20f5.ipa",
+      "versionDescription": "commit g032890803",
+      "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/PPSSPP_v1.10.3-1259-g032890803.ipa",
       "localizedDescription": "PPSSPP allows you to play PSP games on your iOS devices.\n\nEnhance your experience!\n• Play in HD resolutions and more\n• Play on a tablet for big-screen mobile gaming\n• Customize on-screen touch controls or use an external controller or keyboard\n• Save and restore game state anywhere, anytime\n• Crank up the anisotropic filtering and texture scaling\n• Continue where you left off by transferring saves from your real PSP",
       "iconURL": "https://github.com/hulilikii/Sources/raw/master/Screens/PPSSPP.png",
       "tintColor": "21486b",
-      "size": 16228765,
+      "size": 30544692,
       "screenshotURLs": [
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image0.png?dl=1",
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image1.png?dl=1"
