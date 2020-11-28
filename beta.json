@@ -66,15 +66,15 @@
       "versionDescription": "Haptics and Rumble Update.",
       "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.2.ipa",
       "iconURL": "https://github.com/hulilikii/Sources/blob/master/Screens/ios_marketing1024x1024.png?raw=true",
+      "size": 35013324,
+      "tintColor": "41cdff",
       "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
       "screenshotURLs": [
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
 	      "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
-      ],
-      "size": 35013324,
-      "tintColor": "41cdff"
+      ]
     },
     {
       "name": "MAME4iOS",
