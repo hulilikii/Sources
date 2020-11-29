@@ -1,13 +1,6 @@
 {
-  "public": {
-    "version": "3.1.1 (129)",
-    "state_version": 122,
-    "changes": "Added experimental Odyssey support, motion IR pointer recentering, and automatic top bar pull-down button hiding when a controller is connected.",
-    "changes_url": "https://oatmealdome.me/blog/dolphinios-ver-3-1-1/",
-    "install_url": "cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.oatmealdome.me/&package=me.oatmealdome.dolphinios"
-  },
   "public_njb": {
-    "version": "3.2.2 (131)",
+    "version": "3.2.1 (1)",
     "state_version": 122,
     "changes": "Adds rumble, accurate button haptics, and new icon.",
     "changes_url": "https://oatmealdome.me/blog/dolphinios-ver-3-1-1/",
