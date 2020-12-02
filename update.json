@@ -3,8 +3,8 @@
     "version": "3.2.2 (3)",
     "state_version": 122,
     "changes": "Updated MoltenVK",
-    "changes_url": "https://oatmealdome.me/blog/dolphinios-ver-3-1-1/",
-    "install_url": "https://dolphinios.oatmealdome.me/update"
+    "changes_url": "https://github.com/hulilikii/Sources/commit/393a44f14a4e667c7d9a19e277883dfc3722fc0a",
+    "install_url": "altstore://apps"
   },
   "kbs": [
   ],
