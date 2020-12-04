@@ -127,25 +127,6 @@
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image0.png?dl=1",
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image1.png?dl=1"
       ]
-    },
-    {
-          "name": "Provenance",
-          "bundleIdentifier": "com.provenance-emu.provenance-xcode",
-          "developerName": "Provenance Team",
-          "subtitle": "An iOS Frontend for Multiple Emulators",
-          "version": "1.5b",
-          "versionDate": "2020-12-04",
-          "versionDescription": "Remove the various AppCenter leftovers. #1453",
-          "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/Provenance_1.5.1.ipa",
-          "localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
-          "iconURL": "https://github.com/Provenance-Emu/Provenance/raw/4b4ece31c386f51697e78dffb3f73f81608b0828/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/Icon-83.5%402x.png",
-          "tintColor": "1368a0",
-          "size": 23191552,
-          "screenshotURLs": [
-            "https://bunduuk.github.io/altstore-source/img/Provenance/screen1.png",
-            "https://bunduuk.github.io/altstore-source/img/Provenance/screen2.png",
-            "https://bunduuk.github.io/altstore-source/img/Provenance/screen3.png"
-          ]
-        },
+    }
   ]
 }
