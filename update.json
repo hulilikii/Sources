@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.3 (2)",
+    "version": "3.2.2 (3)",
     "state_version": 122,
-    "changes": "Various graphical core fixes and moltenVK update",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/428bd162fdb08992ebf5787a0da3fd611dd8a7ea",
+    "changes": "MoltenVK update",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/393a44f14a4e667c7d9a19e277883dfc3722fc0a",
     "install_url": "altstore://apps"
   },
   "kbs": [
