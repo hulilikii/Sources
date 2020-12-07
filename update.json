@@ -1,6 +1,6 @@
 {
   "public_njb": {
-    "version": "3.2.3 (4)",
+    "version": "3.2.3 (2)",
     "state_version": 122,
     "changes": "Various graphical core fixes and moltenVK update",
     "changes_url": "https://github.com/hulilikii/Sources/commit/428bd162fdb08992ebf5787a0da3fd611dd8a7ea",
