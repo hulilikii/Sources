@@ -3,7 +3,7 @@
     "version": "3.2.3 (5)",
     "state_version": 122,
     "changes": "Dolphin core updates and updated MoltenVK driver.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/2947128b2e5b0acd3f92b2611e13b92b5306f7cb",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/c4174c7ef2dd6fa2d8cbbe3dbe42a496da23f1af",
     "install_url": "altstore://apps"
   },
   "kbs": [
