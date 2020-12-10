@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.3 (7)",
+    "version": "3.2.4 (1)",
     "state_version": 122,
     "changes": "Dolphin core updates and updated MoltenVK driver.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/3fb0b8b5fe722ecb836980dd07b907d6fa7d036d",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/d7b83e2157e01932949bf805ac9c0761e04a746b",
     "install_url": "altstore://apps"
   },
   "kbs": [
