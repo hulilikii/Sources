@@ -35,7 +35,7 @@
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
       "version": "1.3.6",
-      "versionDate": "2020-12-10",
+      "versionDate": "2020-12-11",
       "versionDescription": "Fixes race condition when initializing AudioManager/VideoManager\n• Fixes delayed touch inputs near screen edges\n• Adds default implementation for ControllerSkinProtocol.gameScreenFrame\n• Adds TouchControllerSkin to handle touches while external controller is connected\n• Fixes crash due to rendering GameView while updating layout\n• Fixes Airdrop zip association",
       "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/Delta_1.3.6.ipa",
       "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DSi games!\nPlease report any issues you find to support@altstore.io. Thanks!",
@@ -146,6 +146,20 @@
                  "https://bunduuk.github.io/altstore-source/img/Provenance/screen2.png",
                  "https://bunduuk.github.io/altstore-source/img/Provenance/screen3.png"
                ]
-             }
+             },
+    {
+               "name": "Yaba Sanshiro",
+               "bundleIdentifier": "org.devMiyax.yabasanshiro2",
+               "developerName": "devMiyax",
+               "subtitle": "A Sega Saturn Emulator for iOS.",
+               "version": "2.1.2.0",
+               "versionDate": "2020-12-11",
+               "versionDescription": "Changes in 2.1.2.0:\n• Emulation core is updated to YabaSanshiro 2 1.2.0\n• Support Razer kishi\n• Add Menu botton on Game view\n• Add 'Add button' which can select a chd file on your phone or iCloud drive\n• Change sound Library from OpenAL to Core Audio\n• Support Keyboard",
+               "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/YabaSanshiro2_1_2_0.ipa",
+               "localizedDescription": "uoYabause is a unofficial port of Yabause SEGA Saturn Emulator.",
+               "iconURL": "https://github.com/hulilikii/Sources/raw/master/Screens/yabasan.png",
+               "tintColor": "808080",
+               "size": 2553210,
+             },
   ]
 }
