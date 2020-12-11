@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.4 (1)",
+    "version": "3.2.5 (1)",
     "state_version": 122,
-    "changes": "Dolphin core updates and updated MoltenVK driver.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/d7b83e2157e01932949bf805ac9c0761e04a746b",
+    "changes": "Updated DolphiniOS graphics options and dolphin-emu core updates.",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/b5b4ef3a1e0043e0102803b903a7f4ed8176a846",
     "install_url": "altstore://apps"
   },
   "kbs": [
