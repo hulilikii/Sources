@@ -1,6 +1,6 @@
 {
   "public_njb": {
-    "version": "3.2.8 (1)",
+    "version": "3.2.8 (2)",
     "state_version": 122,
     "changes": "Updated DolphiniOS graphics driver and dolphin-emu JIT updates.",
     "changes_url": "https://github.com/hulilikii/Sources/commit/7211ec23b7ba555bddd3ae8e12c6bec0cb8d446b",
