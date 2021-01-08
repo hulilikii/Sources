@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.8 (2)",
+    "version": "3.2.9 (1)",
     "state_version": 122,
-    "changes": "Updated DolphiniOS graphics driver and dolphin-emu JIT updates.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/7211ec23b7ba555bddd3ae8e12c6bec0cb8d446b",
+    "changes": "Interface updates, updated DolphiniOS graphics driver, and vulkan headers.",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/a05b2fc2679080d5dd8c669ddeeff0f37d0a7977",
     "install_url": "altstore://apps"
   },
   "kbs": [
