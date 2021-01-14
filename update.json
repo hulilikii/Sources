@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.9 (10)",
+    "version": "3.2.10 (1)",
     "state_version": 122,
-    "changes": "Interface updates, and updated MoltenVK graphics driver.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/d1c82591f59459cddf0af44e9b221cf68328e6f2",
+    "changes": "Fix keyboard issues, and updated dolphin-emu core.",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/541e53dce2d852e94aa617d4d25469f64b576a2a",
     "install_url": "altstore://apps"
   },
   "kbs": [
