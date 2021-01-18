@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.10 (4)",
+    "version": "3.2.11 (1)",
     "state_version": 122,
-    "changes": "Fix keyboard issues, and updated dolphin-emu core.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/5d96f86c7e49c089271d506a09e02fe6408cc44e",
+    "changes": "Updated dolphin-emu Jit64arm.",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/77227f5e09084ebafe56d435b6d9a20b9713fece",
     "install_url": "altstore://apps"
   },
   "kbs": [
