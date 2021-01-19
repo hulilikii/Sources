@@ -3,7 +3,7 @@
     "version": "3.2.12 (2)",
     "state_version": 122,
     "changes": "Re-enable Gecko codes. Dolphin-emu core optimization fixes.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/00868664ac4e4eabcb63d37cad11e6f7f1bf607a",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/d4b4e3315f65f1099dc464a17cebb8c1388e55f2",
     "install_url": "altstore://apps"
   },
   "kbs": [
