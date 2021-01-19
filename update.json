@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.11 (1)",
+    "version": "3.2.12 (1)",
     "state_version": 122,
-    "changes": "Updated dolphin-emu Jit64arm.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/77227f5e09084ebafe56d435b6d9a20b9713fece",
+    "changes": "Dolphin-emu core optimization fixes.",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/00868664ac4e4eabcb63d37cad11e6f7f1bf607a",
     "install_url": "altstore://apps"
   },
   "kbs": [
