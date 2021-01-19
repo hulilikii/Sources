@@ -29,33 +29,6 @@
         "https://github.com/hulilikii/Sources/blob/master/Screens/classicplayer2.jpg?raw=true"
       ]
     },
-  //  {
-  //    "name": "Delta",
-  //    "bundleIdentifier": "com.rileytestut.Delta.Xcode",
-  //    "developerName": "Riley Testut",
-  //    "subtitle": "Classic games in your pocket.",
-  //    "version": "1.3.7",
-  //    "versionDate": "2021-01-14",
-  //    "versionDescription": "Fix for menu crash\n• Next is MelonDS 0.91 update\n• Fixes previews",
-  //    "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/Delta_1.3.7.ipa",
-  //    "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DSi games!\nPlease report any issues you find to support@altstore.io. Thanks!",
-  //    "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-  //    "tintColor": "8A28F7",
-  //    "size": 24636427,
-  //    "beta": false,
-  //    "permissions": [
-  //      {
-  //        "type": "photos",
-  //       "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-  //      }
-  //    ],
-  //    "screenshotURLs": [
-  //      "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-  //      "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
-  //      "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-  //      "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
-  //    ]
-  //  },
     {
       "name": "DolphiniOS",
       "bundleIdentifier": "me.oatmealdome.dolphinios-njb-xcode",	
@@ -63,7 +36,7 @@
       "subtitle": "GameCube and Wii games on the go.",
       "version": "3.2.11",
       "versionDate": "2021-01-19",
-      "versionDescription": "Gecko codes (forgot this was fixed) and Dolphin-emu core optimization.\n• https://github.com/hulilikii/Sources/commit/00868664ac4e4eabcb63d37cad11e6f7f1bf607a",
+      "versionDescription": "Dolphin-emu core optimization.\n• https://github.com/hulilikii/Sources/commit/00868664ac4e4eabcb63d37cad11e6f7f1bf607a",
       "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/DolphiniOS_3.2.11.ipa",
       "iconURL": "https://github.com/hulilikii/Sources/blob/master/Screens/ios_marketing1024x1024.png?raw=true",
       "size": 26399300,
@@ -128,24 +101,24 @@
         "https://dl.orangedox.com/quarklibrary/PPSSPP/image1.png?dl=1"
       ]
     },
-//    {
-//               "name": "Provenance",
-//               "bundleIdentifier": "com.provenance-emu.provenance",
-//               "developerName": "Provenance Team",
-//               "subtitle": "An iOS Frontend for Multiple Emulators",
-//               "version": "1.5",
-//               "versionDate": "2020-12-04",
-//               "versionDescription": "Latest public beta",
-//               "downloadURL": "https://github.com/hulilikii/Sources/raw/master/Downs/Provenance-iOS-1.5b-2774.ipa",
-//               "localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
-//               "iconURL": "https://github.com/Provenance-Emu/Provenance/raw/4b4ece31c386f51697e78dffb3f73f81608b0828/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/Icon-83.5%402x.png",
-//               "tintColor": "1368a0",
-//               "size": 103608274,
-//               "screenshotURLs": [
-//                 "https://bunduuk.github.io/altstore-source/img/Provenance/screen1.png",
-//                 "https://bunduuk.github.io/altstore-source/img/Provenance/screen2.png",
-//                 "https://bunduuk.github.io/altstore-source/img/Provenance/screen3.png"
-//               ]
-//             },
+    {
+               "name": "Provenance",
+               "bundleIdentifier": "com.provenance-emu.provenance",
+               "developerName": "Provenance Team",
+               "subtitle": "An iOS Frontend for Multiple Emulators",
+               "version": "1.5",
+               "versionDate": "2020-12-04",
+               "versionDescription": "Latest public beta",
+               "downloadURL": "null",
+               "localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
+               "iconURL": "https://github.com/Provenance-Emu/Provenance/raw/4b4ece31c386f51697e78dffb3f73f81608b0828/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/Icon-83.5%402x.png",
+               "tintColor": "1368a0",
+               "size": 103608274,
+               "screenshotURLs": [
+                 "https://bunduuk.github.io/altstore-source/img/Provenance/screen1.png",
+                 "https://bunduuk.github.io/altstore-source/img/Provenance/screen2.png",
+                 "https://bunduuk.github.io/altstore-source/img/Provenance/screen3.png"
+               ]
+             },
     ]
   }
