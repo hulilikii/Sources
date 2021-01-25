@@ -1,6 +1,6 @@
 {
   "public_njb": {
-    "version": "3.2.13 (2)",
+    "version": "3.2.13 (1)",
     "state_version": 122,
     "changes": "Dolphin-emu JIT optimization fixes and MoltenVK update.",
     "changes_url": "https://github.com/hulilikii/Sources/commit/3046a3e093d79e83d5453ff4815b341c9a189dc7",
