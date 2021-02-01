@@ -1,9 +1,9 @@
 {
   "public_njb": {
-    "version": "3.2.16 (4)",
+    "version": "3.2.17 (7)",
     "state_version": 122,
-    "changes": "Dolphin-emu JIT optimization fixes and MoltenVK update.",
-    "changes_url": "https://github.com/hulilikii/Sources/commit/66ce28182cada2361aca02f425e0fcb1af3abfd7",
+    "changes": "Dolphin-emu JIT optimization fixes.",
+    "changes_url": "https://github.com/hulilikii/Sources/commit/b165d7c610a6c5df5b4f27bcc853c749797bcee7",
     "install_url": "altstore://apps"
   },
   "kbs": [
